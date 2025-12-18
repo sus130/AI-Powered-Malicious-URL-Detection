@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\varun\Desktop\Network-Security-ML-System\mlruns/127750897701991168/e1b34e8222bd4ae395149f18de76b3c1/artifacts
+end_time: 1758874585583
+entry_point_name: ''
+experiment_id: '127750897701991168'
+lifecycle_stage: active
+run_id: e1b34e8222bd4ae395149f18de76b3c1
+run_name: Decision Tree_test
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758874580343
+status: 3
+tags: []
+user_id: varun

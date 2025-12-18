@@ -1,0 +1,102 @@
+Abnormal_URL:
+  drift_status: true
+  p_value: .nan
+DNSRecord:
+  drift_status: true
+  p_value: .nan
+Domain_registeration_length:
+  drift_status: true
+  p_value: .nan
+Favicon:
+  drift_status: true
+  p_value: .nan
+Google_Index:
+  drift_status: true
+  p_value: .nan
+HTTPS_token:
+  drift_status: true
+  p_value: .nan
+Iframe:
+  drift_status: true
+  p_value: .nan
+Links_in_tags:
+  drift_status: true
+  p_value: .nan
+Links_pointing_to_page:
+  drift_status: true
+  p_value: .nan
+Page_Rank:
+  drift_status: true
+  p_value: .nan
+Prefix_Suffix:
+  drift_status: true
+  p_value: .nan
+Redirect:
+  drift_status: true
+  p_value: .nan
+Request_URL:
+  drift_status: true
+  p_value: .nan
+Result:
+  drift_status: true
+  p_value: .nan
+RightClick:
+  drift_status: true
+  p_value: .nan
+SFH:
+  drift_status: true
+  p_value: .nan
+SSLfinal_State:
+  drift_status: true
+  p_value: .nan
+Shortining_Service:
+  drift_status: true
+  p_value: .nan
+Statistical_report:
+  drift_status: true
+  p_value: .nan
+Submitting_to_email:
+  drift_status: true
+  p_value: .nan
+URL_Length:
+  drift_status: true
+  p_value: .nan
+URL_of_Anchor:
+  drift_status: true
+  p_value: .nan
+age_of_domain:
+  drift_status: true
+  p_value: .nan
+double_slash_redirecting:
+  drift_status: true
+  p_value: .nan
+feature1:
+  drift_status: true
+  p_value: .nan
+feature2:
+  drift_status: true
+  p_value: .nan
+having_At_Symbol:
+  drift_status: true
+  p_value: .nan
+having_IP_Address:
+  drift_status: true
+  p_value: .nan
+having_Sub_Domain:
+  drift_status: true
+  p_value: .nan
+label:
+  drift_status: true
+  p_value: .nan
+on_mouseover:
+  drift_status: true
+  p_value: .nan
+popUpWidnow:
+  drift_status: true
+  p_value: .nan
+port:
+  drift_status: true
+  p_value: .nan
+web_traffic:
+  drift_status: true
+  p_value: .nan

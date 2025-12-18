@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\varun\Desktop\Network-Security-ML-System\mlruns/127750897701991168/682da1975322445fafc4e29f19564348/artifacts
+end_time: 1758900576406
+entry_point_name: ''
+experiment_id: '127750897701991168'
+lifecycle_stage: active
+run_id: 682da1975322445fafc4e29f19564348
+run_name: Random Forest_train
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758900568111
+status: 3
+tags: []
+user_id: varun

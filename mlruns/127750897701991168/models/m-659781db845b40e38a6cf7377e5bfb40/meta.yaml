@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/jyoth/Downloads/Network-Security-ML-System-20250927T034705Z-1-001/mlruns/127750897701991168/models/m-659781db845b40e38a6cf7377e5bfb40/artifacts
+creation_timestamp: 1763268423090
+experiment_id: '127750897701991168'
+last_updated_timestamp: 1763268428107
+model_id: m-659781db845b40e38a6cf7377e5bfb40
+model_type: null
+name: model
+source_run_id: 60eb3d47c437464cac287c34ef5eb51d
+status: 2
+status_message: null

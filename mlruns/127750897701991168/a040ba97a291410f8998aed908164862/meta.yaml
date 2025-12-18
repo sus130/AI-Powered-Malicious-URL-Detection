@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\varun\Desktop\Network-Security-ML-System\mlruns/127750897701991168/a040ba97a291410f8998aed908164862/artifacts
+deleted_time: 1758955908679
+end_time: 1758949955390
+entry_point_name: ''
+experiment_id: '127750897701991168'
+lifecycle_stage: deleted
+run_id: a040ba97a291410f8998aed908164862
+run_name: Random Forest_train
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758949948476
+status: 4
+tags: []
+user_id: jyoth

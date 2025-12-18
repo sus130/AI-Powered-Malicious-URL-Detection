@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/jyoth/Downloads/Network-Security-ML-System-20250927T034705Z-1-001/mlruns/127750897701991168/c84e52098b4f4e3ba9f147fef2d9948c/artifacts
+end_time: 1758956585528
+entry_point_name: ''
+experiment_id: '127750897701991168'
+lifecycle_stage: active
+run_id: c84e52098b4f4e3ba9f147fef2d9948c
+run_name: Decision Tree_train
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758956577439
+status: 3
+tags: []
+user_id: jyoth

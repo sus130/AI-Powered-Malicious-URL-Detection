@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/jyoth/Downloads/Network-Security-ML-System-20250927T034705Z-1-001/mlruns/127750897701991168/4e2187a5b641476ea46e65e99af9ae1f/artifacts
+end_time: 1759647440557
+entry_point_name: ''
+experiment_id: '127750897701991168'
+lifecycle_stage: active
+run_id: 4e2187a5b641476ea46e65e99af9ae1f
+run_name: Random Forest_test
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759647437232
+status: 3
+tags: []
+user_id: jyoth

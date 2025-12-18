@@ -1,0 +1,10 @@
+artifact_location: file:///C:\Users\varun\Desktop\Network-Security-ML-System\mlruns/127750897701991168/models/m-17bb8248ef7a4c0294164291232b751c/artifacts
+creation_timestamp: 1758898363513
+experiment_id: '127750897701991168'
+last_updated_timestamp: 1758898367134
+model_id: m-17bb8248ef7a4c0294164291232b751c
+model_type: null
+name: model
+source_run_id: 4633fd20e59c41cea4eaa8470b3f80e7
+status: 2
+status_message: null
