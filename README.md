@@ -81,7 +81,5 @@ Google Colab for training
 
 <img width="1932" height="777" alt="image" src="https://github.com/user-attachments/assets/102d48e1-825f-4bff-8fe0-a8ceb0ab79a6" />
 
-**FRONTEND **
-
 <img width="865" height="475" alt="image" src="https://github.com/user-attachments/assets/bfbe5b9e-fdc6-49cc-9d7d-490406bead30" />
 <img width="890" height="475" alt="image" src="https://github.com/user-attachments/assets/89605157-6552-454b-8df7-fd8149d22795" />
