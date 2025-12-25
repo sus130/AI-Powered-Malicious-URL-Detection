@@ -85,30 +85,3 @@ Google Colab for training
 
 <img width="865" height="475" alt="image" src="https://github.com/user-attachments/assets/bfbe5b9e-fdc6-49cc-9d7d-490406bead30" />
 <img width="890" height="475" alt="image" src="https://github.com/user-attachments/assets/89605157-6552-454b-8df7-fd8149d22795" />
-
-**BACKEND **
-
-<img width="885" height="497" alt="image" src="https://github.com/user-attachments/assets/c7ab95d2-eeb4-4085-a95d-2bda4291de28" />
-<img width="971" height="544" alt="image" src="https://github.com/user-attachments/assets/fff1a3ea-2de0-4a44-87f1-5884af0f44c3" />
-
-**MLFLOW**
-
-<img width="1080" height="522" alt="image" src="https://github.com/user-attachments/assets/1d6d7fc4-848b-447f-9d0d-56929e496a65" />
-
-**MONGODB ATLAS**
-
-<img width="1911" height="927" alt="image" src="https://github.com/user-attachments/assets/eb26108d-8da9-4f7d-ae19-caf5cef76f83" />
-
-**AMAZON S3**
-
-<img width="882" height="576" alt="image" src="https://github.com/user-attachments/assets/37aa1bf4-1fb5-40da-a96f-d385daf8093d" />
-<img width="890" height="428" alt="image" src="https://github.com/user-attachments/assets/083d028e-1e33-429d-8122-74b530a36946" />
-
-
-
-
-
-
-
-
-
